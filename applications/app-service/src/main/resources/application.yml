@@ -1,6 +1,6 @@
 spring:
   application:
-    name: dojotestback
+    name: clean_architecture
 app:
   # VAR_application_yml_self_app_configuration_opt
 

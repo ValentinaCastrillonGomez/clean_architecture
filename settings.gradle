@@ -1,4 +1,4 @@
-rootProject.name = 'dojotestback'
+rootProject.name = 'clenar-architecture'
 
 def excludes = gradle.startParameter.projectProperties.get("excludeProjects")?.split(",")
 
